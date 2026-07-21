@@ -12,5 +12,6 @@ Today I Learned
 ## FRONTEND
 [1. React 소개 및 세팅](./FRONTEND/front_01.md)  
 [2. JSX 문법 이해](./FRONTEND/front_02.md)  
-[3. Component와 Props](./FRONTEND/front_03.md) 
-[4. State와 생명주기](./FRONTEND/front_04.md) 
+[3. Component와 Props](./FRONTEND/front_03.md)   
+[4. State와 생명주기](./FRONTEND/front_04.md)  
+[5. Event 처리와 활용](./FRONTEND/front_05.md)  
