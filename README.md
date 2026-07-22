@@ -18,3 +18,5 @@ Today I Learned
 
 ## WEB
 [1. 기본 개념](./WEB/web_01.md)  
+[2. 클라이언트와 서버](./WEB/web_02.md)  
+  
