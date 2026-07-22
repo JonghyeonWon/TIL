@@ -15,3 +15,6 @@ Today I Learned
 [3. Component와 Props](./FRONTEND/front_03.md)   
 [4. State와 생명주기](./FRONTEND/front_04.md)  
 [5. Event 처리와 활용](./FRONTEND/front_05.md)  
+
+## WEB
+[1. 기본 개념](./WEB/web_01.md)  
